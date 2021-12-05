@@ -4,13 +4,13 @@
 <a href="https://linkedin.com/in/eythaann" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/eythaann" target="_blank">
+<a href="https://www.twitter.com/eythaann" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://reddit.com/user/eythaann" target="_blank">
+<a href="https://www.reddit.com/user/eythaann" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
-  <a href="https://instagram.com/eythaann" target="_blank">
+  <a href="https://www.instagram.com/eythaann/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
  </div></br>
