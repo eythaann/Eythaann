@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi!  I'm Eythan</h1>
+<p align="center">I'm a <b>Software Developer</b> with <b>Javascript</b></p>
 <a href="https://linkedin.com/in/eythaann" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -8,9 +9,9 @@
 <a href="https://linkedin.com/in/eythaann" target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a></br>
-I’m currently learning ipfs, smarts-contracts and others things
-<div>
-  <img align="center" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eythaann&hide=scss" />
-  <img align="center" height="300px" src="https://github-readme-stats.vercel.app/api?username=eythaann&show_icons=true" />
+<p>I’m currently learning ipfs, smarts-contracts and others things</p>
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eythaann&hide=scss" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=eythaann&show_icons=true" />
 </div>
 
