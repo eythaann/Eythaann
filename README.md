@@ -13,9 +13,17 @@
   <a href="https://linkedin.com/in/eythaann" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
- </div>
+ </div></br>
 <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eythaann&hide=scss" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=eythaann&show_icons=true" />
 </div>
-<p>I’m currently learning ipfs, smarts-contracts and others things</p>
+<hr>
+<div >
+  <p>Now I'm <b>currenly learning</b> about:</p>
+  <ul>
+    <li>IPFS</li>
+    <li>Smart-Contract</li>
+    <li>Blockchain</li>
+  </ul>
+</div>
