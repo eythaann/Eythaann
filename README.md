@@ -45,7 +45,6 @@
   <p>Now I'm <b>currenly learning</b> about:</p>
   <ul>
     <li>IPFS</li>
-    <li>Smart-Contract</li>
     <li>Blockchain</li>
   </ul>
 </div>
