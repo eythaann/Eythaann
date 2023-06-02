@@ -42,9 +42,4 @@
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </li>
   </ul>
-  <p>Now I'm <b>currenly learning</b> about:</p>
-  <ul>
-    <li>IPFS</li>
-    <li>Blockchain</li>
-  </ul>
 </div>
