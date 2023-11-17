@@ -1,5 +1,5 @@
 <h1 align="center">Hi!  I'm Eythan</h1>
-<p align="center">I'm a <b>Software Developer</b> with <b>Javascript</b> and <b>Typescript.</b> </br> You can <b>follow</b> me in:</p>
+<p align="center">I'm a <b>Software Developer. </br> You can <b>follow</b> me in:</p>
 <div align="center">
 <a href="https://linkedin.com/in/eythaann" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
