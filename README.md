@@ -1,4 +1,4 @@
-<h1 align="center">Hi!  I'm Eythan</h1>
+<h1 align="center">Hi! Welcome to my Seelen, I'm Eythan</h1>
 <p align="center">I'm a <b>Software Developer. </br> You can <b>follow</b> me in:</p>
 <div align="center">
 <a href="https://linkedin.com/in/eythaann" target="_blank">
@@ -25,6 +25,8 @@
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=csharp" />
       <img src="https://img.shields.io/badge/C%2FC++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2FC++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     </li>
     <li>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
