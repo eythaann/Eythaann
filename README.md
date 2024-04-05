@@ -25,7 +25,6 @@
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=csharp" />
       <img src="https://img.shields.io/badge/C%2FC++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2FC++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     </li>
     <li>
