@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Welcome to my Seelen, I'm Eythan</h1>
+<h1 align="center">Hi! Welcome to my Github, I'm Eythan</h1>
 <p align="center">I'm a <b>Software Developer. </br> You can <b>follow</b> me in:</p>
 <div align="center">
 <a href="https://linkedin.com/in/eythaann" target="_blank">
