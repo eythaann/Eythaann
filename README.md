@@ -1,9 +1,6 @@
 <h1 align="center">Hi! Welcome to my Github, I'm Eythan</h1>
-<p align="center">I'm a <b>Software Developer. </br> You can <b>follow</b> me in:</p>
+<p align="center">I'm a <b>Software Developer.
 <div align="center">
-<a href="https://linkedin.com/in/eythaann" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 </div></br>
 <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eythaann&hide=scss" />
