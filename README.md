@@ -1,7 +1,25 @@
 <h1 align="center">Hi! Welcome to my Github, I'm Eythan</h1>
 <p align="center">I'm a <b>Software Developer.
+  
 <div align="center">
-</div></br>
+  <a href="https://github.com/eythaann">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/eythaann">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/eythaann">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://reddit.com/user/eythaann">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://linkedin.com/in/eythaann">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+</br>
+
 <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eythaann&hide=scss" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=eythaann&show_icons=true" />
